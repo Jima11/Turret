@@ -1,0 +1,17 @@
+#Controller Mappings:
+#   Axis 0: LS Horizontal (left is negative)
+#   Axis 1: LS Vertical (up is negative)
+#   Axis 2: LT & RT (together, weirdly)
+#   Axis 3: RS Vertical (up is negative)
+#   Axis 4: RS Horizontal (left is negative)
+#   Button 0: A
+#   Button 1: B
+#   Button 2: X
+#   Button 3: Y
+#   Button 4: LB
+#   Button 5: RB
+#   Button 6: BACK
+#   Button 7: START
+#   Button 8: LS
+#   Button 9: RS
+#   Hat 0: Dpad (Horizontal, Vertical)
